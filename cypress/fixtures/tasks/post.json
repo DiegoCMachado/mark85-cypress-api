@@ -1,0 +1,27 @@
+{
+    "create": {
+        "user": {
+            "name": "Jared Goff",
+            "email": "jared@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "pagar fatura cartao",
+            "tags": [
+                "nubank",
+                "smiles",
+                "ourocard"
+            ]
+        }
+    },
+    "dup": {
+        "user": {
+            "name": "Rob Gronk",
+            "email": "rob@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Fazer compras no mercado"            
+        }
+    }
+}

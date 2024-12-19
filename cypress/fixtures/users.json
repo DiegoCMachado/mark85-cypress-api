@@ -1,0 +1,30 @@
+{
+    "login": {
+        "name": "Tom Brady",
+        "email": "tom@gmail.com",
+        "password": "pwd123"
+    }, 
+    "inv_pass": {
+        "email": "diego@gmail.com",
+        "password": "12345"
+    },
+    "email_404": {
+        "email": "404@gmail.com",
+        "password": "pwd123"
+    },
+    "create": {
+        "name": "Diego Machado",
+        "email": "diego@gmail.com",
+        "password": "pwd123"
+    },
+    "dup_email": {
+        "name": "Josh Allen",
+        "email": "josh@gmail.com",
+        "password": "pwd123"
+    },
+    "required": {
+        "name": "Jalen Hurts",
+        "email": "jalen@gmail.com",
+        "password": "pwd123"
+    }
+}
